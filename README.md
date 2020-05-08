@@ -1,6 +1,7 @@
 # courses-list
 👨‍🎓 A list of dev courses. 
 
+* [CodeWars](https://www.codewars.com) - Code Wars
 * [Coursera](https://www.coursera.org/) - Coursera
 * [DesignCode](https://designcode.io) - DesignCode
 * [DigitalOcean](https://www.digitalocean.com/community/tutorials) - Digital Ocean
