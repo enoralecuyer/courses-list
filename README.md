@@ -25,7 +25,3 @@
 * [Udacity](https://www.udacity.com/)
 * [Udemy](https://www.udemy.com/) 
 * [X-Team](https://x-team.com/programming-resources/) 
-
-# License
-
-MIT license
