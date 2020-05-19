@@ -1,6 +1,7 @@
 # courses-list
 👨‍🎓 A list of dev courses. 
 
+* [CodeAcademy](https://www.codecademy.com/)
 * [CodeWars](https://www.codewars.com)
 * [Coursera](https://www.coursera.org/)
 * [DesignCode](https://designcode.io)
@@ -11,6 +12,7 @@
 * [Full Stack Open](https://fullstackopen.com/)
 * [GitHub Learning Lab](https://lab.github.com/)
 * [Hasura GraphQL](https://hasura.io/learn/) 
+* [Khan Academy](https://www.khanacademy.org/)
 * [Learn to Code HTML and CSS](https://learn.shayhowe.com/) 
 * [Lighthouse Labs](http://lighthouse-labs.thinkific.com/collections) 
 * [Microsoft](https://docs.microsoft.com/en-us/learn/)
